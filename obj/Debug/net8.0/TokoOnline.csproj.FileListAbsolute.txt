@@ -34,3 +34,4 @@ D:\smester7\test\TokoOnline\TokoOnline\obj\Debug\net8.0\refint\TokoOnline.dll
 D:\smester7\test\TokoOnline\TokoOnline\obj\Debug\net8.0\TokoOnline.pdb
 D:\smester7\test\TokoOnline\TokoOnline\obj\Debug\net8.0\TokoOnline.genruntimeconfig.cache
 D:\smester7\test\TokoOnline\TokoOnline\obj\Debug\net8.0\ref\TokoOnline.dll
+D:\smester7\test\TokoOnline\TokoOnline\obj\Debug\net8.0\TokoOnline.sourcelink.json
