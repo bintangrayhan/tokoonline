@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TokoOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7f719c25c7756b99dc9b0068afc081bc2e8b4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TokoOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TokoOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
